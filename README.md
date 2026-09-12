@@ -75,11 +75,10 @@ The testing R² score of **0.7111** means the model explains approximately **71.
 
 ### House Price Distribution
 
-![House Price Distribution](images/house_price_distribution.png)
+
 
 ### Actual vs Predicted House Values
 
-![Actual vs Predicted](images/actual_vs_predicted.png)
 
 ## Example Prediction
 
